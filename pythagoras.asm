@@ -3,8 +3,6 @@
 ; Author Information
     ; Name: Priyanka Lee
     ; Email: priyankaaax3@csu.fullerton.edu
-    ; CWID: 892929654
-    ; CPSC 240-07
 ;
 ; Program Information
     ; Program Name: Pythagoras 
